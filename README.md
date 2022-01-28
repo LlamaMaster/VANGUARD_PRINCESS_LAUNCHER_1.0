@@ -21,7 +21,7 @@ More detailed notes are written in the "SOURCE_CODE.ahk" file.
 
 ### Download: 
 
-https://cdn.discordapp.com/attachments/735575307389632618/936431793874292766/VANGUARD_PRINCESS_LAUNCHER_ver1.0.zip
+https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/LlamaMaster/VANGUARD_PRINCESS_LAUNCHER_1.0/blob/27ac7c6a492a00aabc1fd49e1ce6f145ed76a0b7/VANGUARD_PRINCESS_LAUNCHER_ver1.0.zip
 
 ----------------------------------
 
