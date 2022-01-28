@@ -16,6 +16,13 @@ Translates the options menus from Japanese to English without needing the system
 More detailed notes are written in the "SOURCE_CODE.ahk" file. 
 
 ----------------------------------
+![launcher_screenshot](https://user-images.githubusercontent.com/3894527/151616242-a57dd44b-c6ad-48a3-a4cd-c7695233af16.png)
+![launcher_screenshot_2](https://user-images.githubusercontent.com/3894527/151616266-21a8d244-c441-4122-a0f5-6cfe5ff7b9dc.png)
+![launcher_screenshot_3](https://user-images.githubusercontent.com/3894527/151616277-b2862e34-d3c8-453c-8d49-1a7a26a5f831.png)
+![launcher_screenshot_4](https://user-images.githubusercontent.com/3894527/151616297-0dc6d8eb-b025-4983-9cf1-10e9413cbe44.png)
+
+
+----------------------------------
 
 Installation: 
 
