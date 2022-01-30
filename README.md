@@ -45,7 +45,7 @@ Note that the GUI launcher needs to have read and write permissions in order to 
 ### Screenshots:
 
 <img src="https://user-images.githubusercontent.com/3894527/151616266-21a8d244-c441-4122-a0f5-6cfe5ff7b9dc.png" width="642">
-<img src="https://user-images.githubusercontent.com/3894527/151616277-b2862e34-d3c8-453c-8d49-1a7a26a5f831.png" width="321">
+<img src="https://user-images.githubusercontent.com/3894527/151722166-1c74e8e5-866a-47b0-b240-3e3857186814.png" width="321">
 <img src="https://user-images.githubusercontent.com/3894527/151616297-0dc6d8eb-b025-4983-9cf1-10e9413cbe44.png" width="602">
 
 ----------------------------------
